@@ -491,6 +491,7 @@ ul {
     height: 100px;
     background: none;
     border: none;
+    z-index: 1;
 }
 .watsapp i{
     color: #d575d7;
